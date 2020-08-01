@@ -23,6 +23,7 @@ keras 2.3.1，tensorflow 1.14.0，pandas 0.24.2，numpy 1.16.2，sklearn 0.20.3,
 
 ### Datasets
 **Chinese Datasets:** [ChnSentiCorp](https://www.aitechclub.com/data-detail?data_id=29), [NLPCC 2014 Task 2 CN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html)
+
 **Chinese Datasets:** [NLPCC 2014 Task 2 CN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html), [MR](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 *ChnSentiCorp* is a collection of hotel review data collected and compiled by Professor Songbo Tan.
