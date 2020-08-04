@@ -1,5 +1,5 @@
 ## Introuction:
-**This is the source code and data for the paper entitled "Interactive Dual Attention Network for Text Sentiment Classification".**
+**The source code and data for the paper entitled "Interactive Dual Attention Network for Text Sentiment Classification".**
 
 
 ## Requirements:
@@ -22,13 +22,13 @@ keras 2.3.1，tensorflow 1.14.0，pandas 0.24.2，numpy 1.16.2，sklearn 0.20.3,
 ## Resources:
 
 ### Datasets
-**Chinese Datasets:** [ChnSentiCorp](https://www.aitechclub.com/data-detail?data_id=29), [NLPCC 2014 Task 2 CN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html)
+**Chinese Datasets:** [ChnSentiCorp](https://www.aitechclub.com/data-detail?data_id=29), [NLPCC-CN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html)
 
-**Chinese Datasets:** [NLPCC 2014 Task 2 CN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html), [MR](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
+**English Datasets:** [NLPCC-EN](http://tcci.ccf.org.cn/conference/2014/pages/page04_sam.html), [MR](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 *ChnSentiCorp* is a collection of hotel review data collected and compiled by Professor Songbo Tan.
 
-*NLPCC 2014 Task 2 CN* and *NLPCC 2014 Task 2 EN* are the Chinese and English datasets of the sentiment analysis task of the 2014 NLPCC International Conference.
+*NLPCC-CN* and *NLPCC-EN* are the Chinese and English datasets of the sentiment analysis task of the 2014 NLPCC International Conference.
 
 *MR* is a movie review dataset from the IMDB website.
 
